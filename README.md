@@ -1,5 +1,5 @@
 # KT_AIVLE_2026_10_MiniPJ_01
-* Alert * : 교육과정에서 제공하는 자료들이 외부로 공개되는 것을 금지하고 있으니까 주의합시다. </br>
+**Alert** : 교육과정에서 제공하는 자료들이 외부로 공개되는 것을 금지하고 있으니까 주의합시다. </br>
 프로젝트 진행 및 제출은 Google Colab에서 이뤄지기에, Github 원격저장소는 기록 및 백업용으로 사용하고 합니다. </br>
 
 ## Roles and Responsibilities
